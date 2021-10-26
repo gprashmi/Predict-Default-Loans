@@ -26,8 +26,3 @@ Using conda install orca to render static plots from plotly. Command to install:
 
 $ conda install -c plotly plotly-orca
 
-### Link to the Code:
-
-Predict_Default_loans.ipynb: https://colab.research.google.com/drive/1IYudldWqpDIlaXOzQdmvrBxnEDGpirtR?usp=sharing
-
-Predict_Default_Loans_EDA.ipynb: https://colab.research.google.com/drive/1iSqAUYnKA3A7tLp5m3oBTK_MZ5lyYNfG?usp=sharing
